@@ -1,0 +1,25 @@
+{
+  "name": "12.1_random-string-messages_terminal",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "git": "git",
+    "url": "git+https://github.com/omarhernandezrey/12.1_random-string-messages_terminal"
+  },
+  "keywords": [],
+  "author": "Omar Hernandez",
+  "license": "MIT",
+ "bugs": {
+  "url": "https://github.com/omarhernandezrey/12.1_random-string-messages_terminal/issues"
+ },
+ "homepage": "https://github.com/omarhernandezrey/12.1_random-string-messages_terminal#readme",
+ "bin": {
+  "12.1_random-string-messages_terminal": "./bin/global.js"
+ },
+ "preferGlobal": true
+
+}
