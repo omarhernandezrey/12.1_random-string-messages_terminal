@@ -1,5 +1,5 @@
 {
-  "name": "12.1_random-string-messages_terminal",
+  "name": "random-string-messages_terminal",
   "version": "1.0.0",
   "description": "Random String Messages",
   "main": "index.js",
