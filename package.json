@@ -8,18 +8,20 @@
   },
   "repository": {
     "git": "git",
-    "url": "git+https://github.com/omarhernandezrey/12.1_random-string-messages_terminal"
+    "url": "git+https://github.com/omarhernandezrey/random-string-messages_terminal"
   },
   "keywords": [],
   "author": "Omar Hernandez",
   "license": "MIT",
- "bugs": {
-  "url": "https://github.com/omarhernandezrey/12.1_random-string-messages_terminal/issues"
- },
- "homepage": "https://github.com/omarhernandezrey/12.1_random-string-messages_terminal#readme",
- "bin": {
-  "12.1_random-string-messages_terminal": "./bin/global.js"
- },
- "preferGlobal": true
-
+  "bugs": {
+    "url": "https://github.com/omarhernandezrey/random-string-messages_terminal/issues"
+  },
+  "homepage": "https://github.com/omarhernandezrey/random-string-messages_terminal#readme",
+  "bin": {
+    "12.1_random-string-messages_terminal": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
