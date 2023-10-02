@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/omarhernandezrey/random-string-messages_terminal#readme",
   "bin": {
-    "12.1_random-string-messages_terminal": "./bin/global.js"
+    "random-string-messages_terminal": "./bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
